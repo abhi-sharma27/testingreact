@@ -8,8 +8,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload the page.
+          
         </p>
-        <p>Temporary published on gitPages for testing purpose.</p>
         <a
           className="App-link"
           href="https://reactjs.org"
