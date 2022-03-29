@@ -9,7 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload the page.
         </p>
-        <p>Temporary published on gitPages for testing purpose bzoz errors occurs everyday .</p>
+        <p>Temporary published on gitPages for testing purpose bzoz errors occurs everyday</p>
         <a
           className="App-link"
           href="https://reactjs.org"
